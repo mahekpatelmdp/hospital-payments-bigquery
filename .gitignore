@@ -1,0 +1,8 @@
+bq.cfg
+*.json
+data/*.csv
+.env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+venv/
